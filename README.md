@@ -2,4 +2,7 @@
 ## Visualising the future for Policy Making
 ### Jorge, Sophie and Dhrishya
 
-#### Ideation
+## Day 1
+
+## Ideation 
+
