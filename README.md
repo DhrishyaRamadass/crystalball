@@ -5,8 +5,9 @@
 **Urban Sustainability Visualization Through GPT-Enhanced 3D Modeling**
 
 ##Ideation
+<img width="704" alt="Screenshot 2024-03-05 at 16 44 56" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c87dcb6f-72a8-4d5a-bad3-89511f8e8e20">
 
-![Screenshot 2024-03-05 at 16.44.56.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/b3757b55-81ab-40f1-8d1e-9d1a02ad3705/Screenshot_2024-03-05_at_16.44.56.png)
+
 
 We formed our group based on our common interests of speculative visualisation, artificial intelligence and the use of virtual spaces. 
 
@@ -16,8 +17,8 @@ We wanted to introduce innovation into the sector of urban public policy and civ
 2. can engage and interact in a way to submit ideas and feedback
 
 Flows
+<img width="1089" alt="Screenshot 2024-03-08 at 13 20 09" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/4e685898-50e3-43d1-b352-d810193dd4aa">
 
-![Screenshot 2024-03-08 at 13.20.09.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/476fff0d-f2ce-4d47-921f-cd88eedc3780/Screenshot_2024-03-08_at_13.20.09.png)
 
 Physical? if the why is ‘because it is a deliverable’, not good enough. Think again.
 
@@ -32,11 +33,10 @@ Our project focuses on four pivotal policies aimed at fostering sustainability a
 3. Building Renovation for Energy Efficiency: Retrofitting existing structures to enhance energy performance and reduce environmental impact.
 4. Sustainable Urban Life and Green & Smart Mobility: Promoting eco-friendly transportation modes and sustainable living practices to enhance the quality of life in urban areas.
 
-![WhatsApp Image 2024-03-05 at 16.49.37.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/fb88fb52-c8ba-42fd-926d-d60a058705e0/WhatsApp_Image_2024-03-05_at_16.49.37.jpeg)
+![WhatsApp Image 2024-03-05 at 16 49 37](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/972261bb-48e5-43d8-9cb9-0f08ba0ddbaa)
+![WhatsApp Image 2024-03-05 at 16 49 33](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/9eff2a38-a5d3-4abe-975c-d44e9504c570)
+![WhatsApp Image 2024-03-05 at 16 49 29](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/f24e7db9-1772-4df7-807d-290cc71e5908)
 
-![WhatsApp Image 2024-03-05 at 16.49.33.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/dc5ab709-4d97-4e60-872e-fed3408aba08/WhatsApp_Image_2024-03-05_at_16.49.33.jpeg)
-
-![WhatsApp Image 2024-03-05 at 16.49.29.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/48fb8175-9177-4ac0-8d14-860dda34b044/WhatsApp_Image_2024-03-05_at_16.49.29.jpeg)
 
 1. Identify areas that will be affected by these policies the most. eg. fuel pumps
 
