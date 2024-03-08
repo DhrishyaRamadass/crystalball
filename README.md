@@ -9,11 +9,10 @@
 
 
 ## Ideation
-<img width="704" alt="Screenshot 2024-03-05 at 16 44 56" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c87dcb6f-72a8-4d5a-bad3-89511f8e8e20">
-
-
 
 We formed our group based on our common interests of speculative visualisation, artificial intelligence and the use of virtual spaces. 
+
+![venn micro](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/ebfd2c61-eec9-4623-ba73-0b4f6372f9b5)
 
 We wanted to introduce innovation into the sector of urban public policy and civic engagement by allowing for a framework where the public can 
 
