@@ -63,9 +63,10 @@ We also got some interesting results using Image to Image Generators that were n
 4. 3D asset generations for building virtual spaces 
 
 We explored different ways to prompt to generate a 3D model or a Python code for Blender/ Geasshopper 
-<img width="1680" alt="Screenshot 2024-03-06 at 16 12 33" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b2fac3cd-95c5-4d23-94da-ad0d5ac58bf3">
+
 <img width="1677" alt="Screenshot 2024-03-05 at 17 45 41" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/925fda62-9978-4c8d-bc4a-35344389aa1d">
 <img width="1680" alt="Screenshot 2024-03-05 at 17 44 50" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/66ddabde-b384-4fc1-ae57-51e93305f144">
+<img width="1680" alt="Screenshot 2024-03-06 at 16 12 33" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b2fac3cd-95c5-4d23-94da-ad0d5ac58bf3">
 
 
 5. Another output we wanted to generate was HDRIs. We tried generating panaromic images and also creating 360 images. This required. lot of post processing done by humans (Jorge) to be usable 
