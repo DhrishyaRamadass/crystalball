@@ -26,7 +26,7 @@ Flows
 
 Physical? if the why is ‘because it is a deliverable’, not good enough. Think again.
 
-What we did: 
+## What we did: 
 
 1. Train a Model -**Policy Implementation Simulation**
 
@@ -42,23 +42,25 @@ Our project focuses on four pivotal policies aimed at fostering sustainability a
 ![WhatsApp Image 2024-03-05 at 16 49 29](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/f24e7db9-1772-4df7-807d-290cc71e5908)
 
 
-1. Identify areas that will be affected by these policies the most. eg. fuel pumps, urban living
+2. Identify areas that will be affected by these policies the most. eg. fuel pumps, urban living
 
 ![WhatsApp Image 2024-03-06 at 10 39 13 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b707815d-1258-49b2-b545-f4e289271f9c)
 ![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/eb008004-7270-4a69-9c22-2c74fa7e60d6)
 
 
-The output images all looked similar 
+3. Generate outputs with Dall-E from OpenAI. The output images all looked similar 
 
 (add pics)
 <img width="761" alt="Screenshot 2024-03-08 at 13 36 57" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/e0822e8e-09c5-4371-9730-f49a36d6bc3b">
+
+![WhatsApp Image 2024-03-08 at 15 21 26](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/2e56ab9f-8f01-4c9a-9e29-440cd5340fd6)
 
 
 We also got some interesting results using Image to Image Generators that were not from OpenAI to create outputs that don’t all use the same imagery to represent changes. 
 
 (add images)
 
-1. 3D asset generations for building virtual spaces 
+4. 3D asset generations for building virtual spaces 
 
 We explored different ways to prompt to generate a 3D model or a Python code for Blender/ Geasshopper 
 <img width="1680" alt="Screenshot 2024-03-06 at 16 12 33" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b2fac3cd-95c5-4d23-94da-ad0d5ac58bf3">
@@ -66,7 +68,7 @@ We explored different ways to prompt to generate a 3D model or a Python code for
 <img width="1680" alt="Screenshot 2024-03-05 at 17 44 50" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/66ddabde-b384-4fc1-ae57-51e93305f144">
 
 
-1. Another output we wanted to generate was HDRIs. We tried generating panaromic images and also creating 360 images. This required. lot of post processing done by humans (Jorge) to be usable 
+5. Another output we wanted to generate was HDRIs. We tried generating panaromic images and also creating 360 images. This required. lot of post processing done by humans (Jorge) to be usable 
 
 
 ![WhatsApp Image 2024-03-08 at 15 08 57](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c20c6449-6d0b-4379-8839-3d92ffcc231b)
