@@ -20,7 +20,7 @@ We wanted to introduce innovation into the sector of urban public policy and civ
 1. Visualise the effects of said policy on a slice of the city
 2. can engage and interact in a way to submit ideas and feedback
 
-Flows
+## Flows
 <img width="1089" alt="Screenshot 2024-03-08 at 13 20 09" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/4e685898-50e3-43d1-b352-d810193dd4aa">
 
 
