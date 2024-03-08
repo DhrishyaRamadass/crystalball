@@ -3,7 +3,7 @@
 ### Jorge, Sophie and Dhrishya
 
 # Urban Sustainability Visualization Through GPT-Enhanced 3D Modeling
-<img width="433" alt="Screenshot 2024-03-08 at 15 16 25" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c3022fd2-9562-4be1-a8ca-6440dfb54453">
+<img width="395" alt="Screenshot 2024-03-08 at 15 16 25" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c3022fd2-9562-4be1-a8ca-6440dfb54453">
 
 <img width="395" alt="Screenshot 2024-03-06 at 16 06 41" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/9870a401-eab1-4444-89af-3e8e440e2986">
 
