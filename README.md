@@ -2,7 +2,10 @@
 ## Visualising the future for Policy Making
 ### Jorge, Sophie and Dhrishya
 
-**Urban Sustainability Visualization Through GPT-Enhanced 3D Modeling**
+# Urban Sustainability Visualization Through GPT-Enhanced 3D Modeling
+
+<img width="395" alt="Screenshot 2024-03-06 at 16 06 41" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/9870a401-eab1-4444-89af-3e8e440e2986">
+
 
 ## Ideation
 <img width="704" alt="Screenshot 2024-03-05 at 16 44 56" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c87dcb6f-72a8-4d5a-bad3-89511f8e8e20">
@@ -38,7 +41,7 @@ Our project focuses on four pivotal policies aimed at fostering sustainability a
 ![WhatsApp Image 2024-03-05 at 16 49 29](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/f24e7db9-1772-4df7-807d-290cc71e5908)
 
 
-1. Identify areas that will be affected by these policies the most. eg. fuel pumps
+1. Identify areas that will be affected by these policies the most. eg. fuel pumps, urban living
 
 ![WhatsApp Image 2024-03-06 at 10 39 13 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b707815d-1258-49b2-b545-f4e289271f9c)
 ![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/eb008004-7270-4a69-9c22-2c74fa7e60d6)
@@ -47,6 +50,7 @@ Our project focuses on four pivotal policies aimed at fostering sustainability a
 The output images all looked similar 
 
 (add pics)
+<img width="761" alt="Screenshot 2024-03-08 at 13 36 57" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/e0822e8e-09c5-4371-9730-f49a36d6bc3b">
 
 
 We also got some interesting results using Image to Image Generators that were not from OpenAI to create outputs that don’t all use the same imagery to represent changes. 
@@ -56,20 +60,17 @@ We also got some interesting results using Image to Image Generators that were n
 1. 3D asset generations for building virtual spaces 
 
 We explored different ways to prompt to generate a 3D model or a Python code for Blender/ Geasshopper 
+<img width="1680" alt="Screenshot 2024-03-06 at 16 12 33" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b2fac3cd-95c5-4d23-94da-ad0d5ac58bf3">
+<img width="1677" alt="Screenshot 2024-03-05 at 17 45 41" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/925fda62-9978-4c8d-bc4a-35344389aa1d">
+<img width="1680" alt="Screenshot 2024-03-05 at 17 44 50" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/66ddabde-b384-4fc1-ae57-51e93305f144">
 
-![Screenshot 2024-03-05 at 17.44.50.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/8b08ff32-1907-404d-9621-41a892b5b5e6/Screenshot_2024-03-05_at_17.44.50.png)
-
-![Screenshot 2024-03-05 at 17.45.41.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/9ef1c60e-8f31-49f0-a14d-f78d9fd26829/Screenshot_2024-03-05_at_17.45.41.png)
-
-![Screenshot 2024-03-06 at 16.12.33.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/c5983497-ef0b-49f3-87ae-54bde01983ab/Screenshot_2024-03-06_at_16.12.33.png)
 
 1. Another output we wanted to generate was HDRIs. We tried generating panaromic images and also creating 360 images. This required. lot of post processing done by humans (Jorge) to be usable 
 
-![DALL·E 2024-03-07 18.05.40 - An enhanced equirectangular panoramic image of Barcelona in 2050, focusing on advanced urbanism and transport. The image should exclude flying vehicle.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/3c7ae401-523d-4ad9-9332-7feef1cdaf5f/DALLE_2024-03-07_18.05.40_-_An_enhanced_equirectangular_panoramic_image_of_Barcelona_in_2050_focusing_on_advanced_urbanism_and_transport._The_image_should_exclude_flying_vehicle.webp)
 
-![DALL·E 2024-03-07 17.54.34 - An equirectangular image showing La Ramblas, Barcelona from one of the intersections. The view should capture the bustling atmosphere of the street, w.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/a9c7f2d7-9cc3-4b63-bce6-0408bfc7106d/DALLE_2024-03-07_17.54.34_-_An_equirectangular_image_showing_La_Ramblas_Barcelona_from_one_of_the_intersections._The_view_should_capture_the_bustling_atmosphere_of_the_street_w.webp)
-
-![WhatsApp Image 2024-03-07 at 13.21.41.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/b161583c-77b7-4e35-b81c-1178f842c669/WhatsApp_Image_2024-03-07_at_13.21.41.jpeg)
+![WhatsApp Image 2024-03-08 at 15 08 57](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c20c6449-6d0b-4379-8839-3d92ffcc231b)
+![WhatsApp Image 2024-03-08 at 15 08 57 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/33c23e62-812d-42d7-ad0b-d9a72e7427b4)
+![WhatsApp Image 2024-03-07 at 13 21 41](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/3f3ef868-94ed-47d8-8985-37247e3ff2bf)
 
 Most of the time was spent finding different ways to prompt and generate the output we wanted with the simplest steps
 
@@ -87,3 +88,4 @@ Feedback Station: Include an interactive feedback station where visitors can lea
 Urban Planning Tool: Provide the tool to urban planners and policymakers as a visualization aid to foresee the impacts of their decisions.
 Educational Resource: Use the project in educational settings to teach students about sustainable urban development and the importance of forward-thinking policies.
 Public Engagement: Use the exhibit to engage the public in discussions about future urban environments, collecting their input and raising awareness about sustainable development.
+<img width="751" alt="Screenshot 2024-03-08 at 13 19 15" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/6f3b1ff0-6080-4b4b-b242-51e559393335">
