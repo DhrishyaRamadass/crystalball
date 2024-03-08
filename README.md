@@ -4,7 +4,7 @@
 
 **Urban Sustainability Visualization Through GPT-Enhanced 3D Modeling**
 
-##Ideation
+## Ideation
 <img width="704" alt="Screenshot 2024-03-05 at 16 44 56" src="https://github.com/DhrishyaRamadass/crystalball/assets/105801279/c87dcb6f-72a8-4d5a-bad3-89511f8e8e20">
 
 
@@ -40,17 +40,14 @@ Our project focuses on four pivotal policies aimed at fostering sustainability a
 
 1. Identify areas that will be affected by these policies the most. eg. fuel pumps
 
-![dgg6by.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/49cc4b22-4ab5-470f-9c8a-b305b47ed35d/dgg6by.jpg)
+![WhatsApp Image 2024-03-06 at 10 39 13 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/b707815d-1258-49b2-b545-f4e289271f9c)
+![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/DhrishyaRamadass/crystalball/assets/105801279/eb008004-7270-4a69-9c22-2c74fa7e60d6)
 
-![WhatsApp Image 2024-03-06 at 10.34.53 (1).jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/f79f8a7e-23b7-4a68-8f19-ede7ea5df131/WhatsApp_Image_2024-03-06_at_10.34.53_(1).jpeg)
-
-![WhatsApp Image 2024-03-06 at 10.39.13.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/9ab81a73-e61e-4b53-aea1-d21c873b44cd/WhatsApp_Image_2024-03-06_at_10.39.13.jpeg)
 
 The output images all looked similar 
 
 (add pics)
 
-![Screenshot 2024-03-08 at 13.36.57.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/20f74f11-bd10-423a-8225-e36380fe1e82/Screenshot_2024-03-08_at_13.36.57.png)
 
 We also got some interesting results using Image to Image Generators that were not from OpenAI to create outputs that don’t all use the same imagery to represent changes. 
 
@@ -75,3 +72,18 @@ We explored different ways to prompt to generate a 3D model or a Python code for
 ![WhatsApp Image 2024-03-07 at 13.21.41.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dca5545-fdd3-4883-8f65-92bdc1969430/b161583c-77b7-4e35-b81c-1178f842c669/WhatsApp_Image_2024-03-07_at_13.21.41.jpeg)
 
 Most of the time was spent finding different ways to prompt and generate the output we wanted with the simplest steps
+
+## Exhibition Ideas:
+
+Interactive Displays: Set up interactive screens where visitors can navigate the future cityscapes, exploring different areas and learning about the changes through pop-up descriptions or audio guides.
+Physical Model Display: Exhibit the 3D printed models alongside the corresponding current-day photographs and descriptions, providing a stark visual contrast.
+Virtual Reality Tour: Offer a VR tour where participants can virtually walk through the future cityscapes, experiencing the transformations firsthand.
+Policy Impact Stations: Create stations focusing on each policy, showing before-and-after scenarios, potential benefits, and challenges.
+Feedback Station: Include an interactive feedback station where visitors can leave their thoughts on the visualizations or suggest additional policies for future simulations.
+
+
+##Utilization for the Future:
+
+Urban Planning Tool: Provide the tool to urban planners and policymakers as a visualization aid to foresee the impacts of their decisions.
+Educational Resource: Use the project in educational settings to teach students about sustainable urban development and the importance of forward-thinking policies.
+Public Engagement: Use the exhibit to engage the public in discussions about future urban environments, collecting their input and raising awareness about sustainable development.
